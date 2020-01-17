@@ -1,5 +1,10 @@
-.container {
+.header {
+    padding-bottom: 50px;
     text-align: center;
-    background-color: black;
-    font-size: medium;
+    background-color:blue;
+    color: white
+}
+
+.parameters {
+    text-align: left;
 }
